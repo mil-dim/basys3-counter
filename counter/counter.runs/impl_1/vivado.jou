@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2.1 (64-bit)
+# SW Build 3414424 on Sun Dec 19 10:57:22 MST 2021
+# IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+# Start of session at: Fri May 20 19:54:49 2022
+# Process ID: 18536
+# Current directory: C:/Users/d_mil/counter/counter.runs/impl_1
+# Command line: vivado.exe -log counter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source counter.tcl -notrace
+# Log file: C:/Users/d_mil/counter/counter.runs/impl_1/counter.vdi
+# Journal file: C:/Users/d_mil/counter/counter.runs/impl_1\vivado.jou
+# Running On: LG, OS: Windows, CPU Frequency: 1498 MHz, CPU Physical cores: 4, Host memory: 25465 MB
+#-----------------------------------------------------------
+source counter.tcl -notrace
